@@ -5,6 +5,7 @@
     <classes>
       <class name="juanmruiz.SeleniumTest"/>
       <class name="juanmruiz.RESTAPITest"/>
+      <class name="juanmruiz.AppiumTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
